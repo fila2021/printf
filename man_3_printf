@@ -159,7 +159,7 @@ To print some weather details:
 .PP
 .nf
 .RS
-#include "holberton.h"
+#include "main.h"
 _printf("Wind: %d%s and Precipitation: %d%%\\n", 28, "km/h", 0x1a);
 .RE
 .fi
